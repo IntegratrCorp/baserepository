@@ -6,6 +6,12 @@
     "require": {
         ...
         "integratrcorp/baserepository": "^0.1"
+    },
+    {
+        "repositories": [{
+            "type": "vcs",
+            "url": "https://github.com/IntegratrCorp/baserepository"
+        }]
     }
 ```
 
