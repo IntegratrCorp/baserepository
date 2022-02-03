@@ -5,7 +5,7 @@
 ```
     "require": {
         ...
-        "integratrcorp/baserepository": "^0.1"
+        "integratrcorp/baserepository": "^1.0"
     },
     {
         "repositories": [{
